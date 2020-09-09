@@ -24,6 +24,7 @@ typedef struct
 }GPIO_PinConfig_t;
 
 
+
 /*
  * @GPIO_PIN_NUMBERS
  * GPIO pin numbers
